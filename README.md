@@ -1,3 +1,3 @@
 # aleskl.github.io
 ## Content
-Hello _world_!
+Personal webpage following the minimalistic rules

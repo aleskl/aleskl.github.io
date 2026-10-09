@@ -1,5 +1,5 @@
 # Delo z bitnimi slikami
-* PhotoCraft (https://getartcraft.com/apps/photocraft)
+* PhotoCraft <https://getartcraft.com/apps/photocraft>
 * Gimp (https://www.gimp.org/) z dodatkom PhotoGIMP (https://github.com/Diolinux/PhotoGIMP)
 * Photopea (https://www.photopea.com/)
 * PhotoDemon (https://photodemon.org/)
